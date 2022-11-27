@@ -1,0 +1,5 @@
+name: AutoMine
+version: '${project.version}'
+main: fr.almo.automine.AutoMine
+api-version: 1.19
+authors: [ almo ]
